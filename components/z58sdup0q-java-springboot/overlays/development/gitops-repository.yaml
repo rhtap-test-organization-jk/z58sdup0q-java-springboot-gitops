@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z58sdup0q-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/z58sdup0q-java-springboot-gitops
